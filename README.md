@@ -4,9 +4,9 @@ This project is based off a Jump Maze. A Jump maze is a n by n 2D array with eac
 
 A 3 x 3 jump maze
 
-2 2 1
-2 1 2
-1 1 0
+2 2 1 \n
+2 1 2 \n
+1 1 0 \n
 
 0, is the goal state, and we start at the top left node which has the number "2". It can only go horizontal and vertical like a rook piece in chess. From there, it has to try to find its way to the goal in the shortest amount of steps.
 
